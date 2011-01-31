@@ -2,7 +2,7 @@
 =begin 
   Ejemplo de uso de metodos para eliminar caracteres de fin de línea y otros caracteres extraños
 =end
-require './utils'
+require '../utils/utils'
 include Util  
 asteriscos
 texto_centrado "Eliminación de fin de línea con chop"

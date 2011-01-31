@@ -4,7 +4,7 @@
 =end
 require 'zlib'
 include Zlib
-require './utils'
+require '../utils/utils'
 include Util
 asteriscos 
 texto_centrado "Ejemplos varios de compresion Deflate.deflate"

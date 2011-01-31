@@ -3,7 +3,7 @@
    Ejemplos de busqueda en cadenas. Se mostrarán varios métodos que sirven para buscar en cadenas de texto además de lo ya visto
 hasta ahora.
 =end
-require './utils'
+require '../utils/utils'
 include Util
 asteriscos
 texto_centrado("Búsqueda de la posicion de una cadena")

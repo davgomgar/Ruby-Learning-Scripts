@@ -2,7 +2,7 @@
 =begin
   Ejemplos de borrado de caracteres en una cadena de texto
 =end
-require './utils'
+require '../utils/utils'
 include Util
 asteriscos
 texto_centrado "Ejemplo de borrado de caracteres en cadenas de texto"

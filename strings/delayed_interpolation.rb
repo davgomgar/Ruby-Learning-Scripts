@@ -2,7 +2,7 @@
 =begin 
   Ejemplos para mostrar como se puede retrasar la evaluacion en la interpolación de cadenas
 =end
-require './utils'
+require '../utils/utils'
 include Util
 asteriscos
 texto_centrado "Existen 2 formas de retrasar la interpolación en cadenas."

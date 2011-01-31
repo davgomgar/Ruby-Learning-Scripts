@@ -7,7 +7,7 @@
     3.- Sha1 de una cadena de caracteres  --> Idem al anterior
     4.- Sha512 de una cadena de caracteres --> Recomendado si es necesaria seguridad
 =end
-require './utils'
+require '../utils/utils'
 include Util
 require 'digest'
 require 'zlib'

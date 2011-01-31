@@ -3,7 +3,7 @@
  En este script se mostrarán ejemplos de como se pueden realizar sustituciones en cadenas en Ruby.
 =end
 #1.- Utilizando método sub --> Sustituye primera aparición de la Regexp
-require './utils'
+require '../utils/utils'
 include Util
 asteriscos
 texto_centrado("Ejemplos usando el método SUB --> Primera aparición en cadena")

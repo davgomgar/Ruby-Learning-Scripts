@@ -8,7 +8,7 @@ regexps y Strings
 #Si se utilizan enteros para acceder a la cadena el comportamiento es:
 #Cadena[indice,longitud] 
 #Si longitud es negativo, devuelve NIL
-require './utils'
+require '../utils/utils'
 include  Util
 asteriscos
 texto_centrado("Accediendo con enteros")

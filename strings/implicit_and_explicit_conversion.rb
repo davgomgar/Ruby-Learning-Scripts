@@ -2,7 +2,7 @@
 =begin
  Ejemplos de conversion implicita to_str y explicita to_s
 =end
-require './utils'
+require '../utils/utils'
 include Util
 asteriscos
 texto_centrado "Conversion implicita: to_str y explicita: to_s"

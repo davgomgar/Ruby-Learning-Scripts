@@ -3,7 +3,7 @@
  Ejemplo de implementación de codificacion / decodificacion de sistemas de codificacion comunes.
  Se implementará ejemplo con Base64 y con UUENCODE
 =end
-require './utils'
+require '../utils/utils'
 include Util
 str = "\007\007\002\abdce fasfa"
 asteriscos
